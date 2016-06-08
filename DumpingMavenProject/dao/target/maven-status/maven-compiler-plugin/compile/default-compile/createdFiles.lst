@@ -1,0 +1,10 @@
+by/pvt/dumping/database/dao/implementations/UserDAOImpl.class
+by/pvt/dumping/database/dao/implementations/CatalogueDAOImpl.class
+by/pvt/dumping/database/dao/interfaces/UserDAO.class
+by/pvt/dumping/database/dao/DAOUtils.class
+by/pvt/dumping/database/dao/interfaces/CatalogueDAO.class
+by/pvt/dumping/database/dao/interfaces/OrderDAO.class
+by/pvt/dumping/database/DBConnector.class
+by/pvt/dumping/App.class
+by/pvt/dumping/database/dao/implementations/OrderDAOImpl.class
+by/pvt/dumping/database/ConnectionPool.class

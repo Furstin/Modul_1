@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: by.pvt.dumping.database.dao.implementations.CatalogueDAOImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.348 sec
